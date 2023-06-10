@@ -1,0 +1,11 @@
+{
+  "name": "Some Random Platformer Verified Mods Directory",
+  "id": "io.github.powerbox1000-studios.some-random-platformer.mods-directory",
+  "mods": [
+    {
+      "name": "v2-v1",
+      "id": "io.github.powerbox1000-studios.v2-v1",
+      "src": "https://raw.githubusercontent.com/Powerbox1000-Studios/v2-v1/main/v2-v1.js"
+    }
+  ]
+}
