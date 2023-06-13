@@ -10,9 +10,16 @@
       "verified": true
     },
     {
+      "name": "Multiplayer Mod",
+      "id": "io.github.powerbox1000-studios.some-random-platformer-multiplayer",
+      "desc": "The official multiplayer mod that allows you to play with friends!",
+      "src": "https://raw.githubusercontent.com/Powerbox1000-Studios/some-random-platformer-multiplayer/main/client/mod.js",
+      "verified": true
+    },
+    {
       "name": "v2-v1",
       "id": "io.github.powerbox1000-studios.v2-v1",
-      "desc": "Allows API v1 mods to run by converting v1 calls to v2 calls",
+      "desc": "Allows API v1 mods to run by converting v1 calls to v2 calls.",
       "src": "https://raw.githubusercontent.com/Powerbox1000-Studios/v2-v1/main/v2-v1.js",
       "verified": true
     }
