@@ -3,17 +3,17 @@
   "id": "io.github.powerbox1000-studios.some-random-platformer.mods-directory",
   "mods": [
     {
-      "name": "The Invisible Parkour",
-      "id": "io.github.powerbox1000-studios.invisible-parkour",
-      "desc": "Make your way across invisible platforms to reach the goal flag!",
-      "src": "https://raw.githubusercontent.com/Powerbox1000-Studios/some-random-platformer-mods/main/mods/invisible-parkour.js",
-      "verified": true
-    },
-    {
       "name": "Multiplayer Mod",
       "id": "io.github.powerbox1000-studios.some-random-platformer-multiplayer",
       "desc": "The official multiplayer mod that allows you to play with friends!",
       "src": "https://raw.githubusercontent.com/Powerbox1000-Studios/some-random-platformer-multiplayer/main/client/mod.js",
+      "verified": true
+    },
+    {
+      "name": "The Invisible Parkour",
+      "id": "io.github.powerbox1000-studios.invisible-parkour",
+      "desc": "Make your way across invisible platforms to reach the goal flag!",
+      "src": "https://raw.githubusercontent.com/Powerbox1000-Studios/some-random-platformer-mods/main/mods/invisible-parkour.js",
       "verified": true
     },
     {
